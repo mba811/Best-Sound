@@ -42,28 +42,28 @@
         "mp3": "music/殇 - 杰奎琳·杜普雷 .ogg"
     },
     {
-        "title": "风の誓",
-        "artist": "梁邦彦い",
+        "title": "愿",
+        "artist": "王菲",
         "cover": "img/bg.jpg",
-        "mp3": "music/风の誓 - 梁邦彦い.ogg"
+        "mp3": "music/愿 - 王菲.ogg"
     },
     {
-        "title": "琵琶语",
-        "artist": "林海",
+        "title": "My Spirit Flies to You",
+        "artist": "The Buddhist Monks",
         "cover": "img/bg.jpg",
-        "mp3": "music/琵琶语 - 林海.ogg"
+        "mp3": "music/My Spirit Flies to You - The Buddhist Monks.ogg"
     },
     {
-        "title": "夜的钢琴曲（五）",
-        "artist": "石进",
+        "title": "Lhodrak Marpa",
+        "artist": "Kelsang Chukie Tethong",
         "cover": "img/bg.jpg",
-        "mp3": "music/夜的钢琴曲（五） - 石进.ogg"
+        "mp3": "music/Lhodrak Marpa - Kelsang Chukie Tethong.ogg"
     },
     {
-        "title": "大地之梦",
-        "artist": "梶浦由記",
+        "title": "Secret Energy",
+        "artist": "The Buddhist Monks",
         "cover": "img/bg.jpg",
-        "mp3": "music/大地之梦 - 梶浦由記.ogg"
+        "mp3": "music/Secret Energy - The Buddhist Monks.ogg"
     },
     {
         "title": "1945完整演奏版",

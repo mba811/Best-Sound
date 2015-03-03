@@ -30,20 +30,20 @@
         "artist": "杰奎琳·杜普雷 "
     },
     {
-        "title": "风の誓",
-        "artist": "梁邦彦い"
+        "title": "愿",
+        "artist": "王菲"
     },
     {
-        "title": "琵琶语",
-        "artist": "林海"
+        "title": "My Spirit Flies to You",
+        "artist": "The Buddhist Monks"
     },
     {
-        "title": "夜的钢琴曲（五）",
-        "artist": "石进"
+        "title": "Lhodrak Marpa",
+        "artist": "Kelsang Chukie Tethong"
     },
     {
-        "title": "大地之梦",
-        "artist": "梶浦由記"
+        "title": "Secret Energy",
+        "artist": "The Buddhist Monks"
     },
     {
         "title": "1945完整演奏版",
