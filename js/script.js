@@ -18,12 +18,12 @@
         "artist": "嘉察仁波切"
     },
     {
-        "title": "驼羔之歌",
-        "artist": "马头琴"
+        "title": "十一面观音根本咒",
+        "artist": "Choying Drolma"
     },
     {
-        "title": "一声佛号一声心",
-        "artist": "佛教音乐"
+        "title": "遙喚根本上師",
+        "artist": "堪布贝玛千贝仁波切"
     },
     {
         "title": "殇",

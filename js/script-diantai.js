@@ -24,16 +24,16 @@
         "mp3": "music/彼岸 - 嘉察仁波切.ogg"
     },
     {
-        "title": "驼羔之歌",
-        "artist": "马头琴",
+        "title": "十一面观音根本咒",
+        "artist": "Choying Drolma",
         "cover": "img/bg.jpg",
-        "mp3": "music/驼羔之歌 - 马头琴.ogg"
+        "mp3": "music/十一面观音根本咒 - Choying Drolma.ogg"
     },
     {
-        "title": "一声佛号一声心",
-        "artist": "佛教音乐",
+        "title": "遙喚根本上師",
+        "artist": "堪布贝玛千贝仁波切",
         "cover": "img/bg.jpg",
-        "mp3": "music/一声佛号一声心 - 佛教音乐.ogg"
+        "mp3": "music/遙喚根本上師 - 堪布贝玛千贝仁波切.ogg"
     },
     {
         "title": "殇",
