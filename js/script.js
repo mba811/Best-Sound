@@ -10,8 +10,8 @@
         "artist": "纯音乐"
     },
     {
-        "title": "Evelyn",
-        "artist": "电影原声 "
+        "title": "《嗡玛尼贝美吽 Om Ma Nye Bhe Mae Hum》",
+        "artist": "Kelsang Chukie Tethong"
     },
     {
         "title": "命",

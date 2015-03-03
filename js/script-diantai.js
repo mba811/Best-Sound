@@ -12,10 +12,10 @@
         "mp3": "music/麦田 - 纯音乐.ogg"
     },
     {
-        "title": "Evelyn",
-        "artist": "电影原声 ",
+        "title": "《嗡玛尼贝美吽 Om Ma Nye Bhe Mae Hum》",
+        "artist": "Kelsang Chukie Tethong",
         "cover": "img/bg.jpg",
-        "mp3": "music/Evelyn - 电影原声 .ogg"
+        "mp3": "music/《嗡玛尼贝美吽 Om Ma Nye Bhe Mae Hum》－Kelsang Chukie Tethong.ogg"
     },
     {
         "title": "命",
