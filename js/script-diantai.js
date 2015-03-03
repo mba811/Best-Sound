@@ -15,7 +15,7 @@
         "title": "《嗡玛尼贝美吽 Om Ma Nye Bhe Mae Hum》",
         "artist": "Kelsang Chukie Tethong",
         "cover": "img/bg.jpg",
-        "mp3": "music/《嗡玛尼贝美吽 Om Ma Nye Bhe Mae Hum》－Kelsang Chukie Tethong.ogg"
+        "mp3": "music/嗡玛尼贝美吽 - Kelsang Chukie Tethong.ogg"
     },
     {
         "title": "命",
