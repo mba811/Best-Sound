@@ -6,16 +6,16 @@
     autoplay = true,
     playlist = [
     {
-        "title": "麦田",
-        "artist": "纯音乐"
+        "title": "大地を求めて",
+        "artist": "吉田潔"
     },
     {
         "title": "嗡玛尼贝美吽",
         "artist": "Kelsang Chukie Tethong"
     },
     {
-        "title": "命",
-        "artist": "电影原声"
+        "title": "彼岸",
+        "artist": "嘉察仁波切"
     },
     {
         "title": "驼羔之歌",

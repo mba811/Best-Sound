@@ -6,22 +6,22 @@
     autoplay = true,
     playlist = [
     {
-        "title": "麦田",
-        "artist": "纯音乐",
+        "title": "大地を求めて",
+        "artist": "吉田潔",
         "cover": "img/bg.jpg",
-        "mp3": "music/麦田 - 纯音乐.ogg"
+        "mp3": "music/大地を求めて - 吉田潔.ogg"
     },
     {
-        "title": "《嗡玛尼贝美吽 Om Ma Nye Bhe Mae Hum》",
+        "title": "嗡玛尼贝美吽",
         "artist": "Kelsang Chukie Tethong",
         "cover": "img/bg.jpg",
         "mp3": "music/嗡玛尼贝美吽 - Kelsang Chukie Tethong.ogg"
     },
     {
-        "title": "命",
-        "artist": "电影原声",
+        "title": "彼岸",
+        "artist": "嘉察仁波切",
         "cover": "img/bg.jpg",
-        "mp3": "music/命 - 电影原声.ogg"
+        "mp3": "music/彼岸 - 嘉察仁波切.ogg"
     },
     {
         "title": "驼羔之歌",
