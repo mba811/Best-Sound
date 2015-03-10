@@ -36,10 +36,10 @@
         "mp3": "music/遙喚根本上師 - 堪布贝玛千贝仁波切.ogg"
     },
     {
-        "title": "殇",
-        "artist": "杰奎琳·杜普雷 ",
+        "title": "Amitabha",
+        "artist": "The Buddhist Monks",
         "cover": "img/bg.jpg",
-        "mp3": "music/殇 - 杰奎琳·杜普雷 .ogg"
+        "mp3": "music/Amitabha - The Buddhist Monks.ogg"
     },
     {
         "title": "愿",
@@ -66,58 +66,58 @@
         "mp3": "music/Secret Energy - The Buddhist Monks.ogg"
     },
     {
-        "title": "1945完整演奏版",
-        "artist": "海角七号",
+        "title": "Amitayus",
+        "artist": "The Buddhist Monks",
         "cover": "img/bg.jpg",
-        "mp3": "music/1945完整演奏版 - 海角七号.ogg"
+        "mp3": "music/Amitayus - The Buddhist Monks.ogg"
     },
     {
-        "title": "Amarantine",
-        "artist": "enya",
+        "title": "Buddha Spirit",
+        "artist": "The Buddhist Monks",
         "cover": "img/bg.jpg",
-        "mp3": "music/Amarantine - enya.ogg"
+        "mp3": "music/Buddha Spirit - The Buddhist Monks.ogg"
     },
     {
-        "title": "APHRODITE",
-        "artist": "S.E.N.S",
+        "title": "Chenrezig",
+        "artist": "The Buddhist Monks",
         "cover": "img/bg.jpg",
-        "mp3": "music/APHRODITE - S.E.N.S.ogg"
+        "mp3": "music/Chenrezig - The Buddhist Monks.ogg"
     },
     {
-        "title": "Ave Maria",
-        "artist": "Libera",
+        "title": "Heart of Wisdom",
+        "artist": "The Buddhist Monks",
         "cover": "img/bg.jpg",
-        "mp3": "music/Ave Maria - Libera.ogg"
+        "mp3": "music/Heart of Wisdom - The Buddhist Monks.ogg"
     },
     {
-        "title": "Brave Soul",
-        "artist": "S.E.N.S",
+        "title": "Manjushri",
+        "artist": "The Buddhist Monks",
         "cover": "img/bg.jpg",
-        "mp3": "music/Brave Soul - S.E.N.S.ogg"
+        "mp3": "music/Manjushri - The Buddhist Monks.ogg"
     },
     {
-        "title": "Castle Gwyn",
-        "artist": "Arlene Faith",
+        "title": "Medicine Buddha",
+        "artist": "The Buddhist Monks",
         "cover": "img/bg.jpg",
-        "mp3": "music/Castle Gwyn - Arlene Faith.ogg"
+        "mp3": "music/Medicine Buddha - The Buddhist Monks.ogg"
     },
     {
-        "title": "Dave kozI believe",
-        "artist": "Saxophone",
+        "title": "Padmasambhara",
+        "artist": "The Buddhist Monks",
         "cover": "img/bg.jpg",
-        "mp3": "music/Dave kozI believe - Saxophone.ogg"
+        "mp3": "music/Padmasambhara - The Buddhist Monks.ogg"
     },
     {
-        "title": "D大调卡农",
-        "artist": "帕赫贝尔",
+        "title": "Tara",
+        "artist": "The Buddhist Monks",
         "cover": "img/bg.jpg",
-        "mp3": "music/D大调卡农 - 帕赫贝尔.ogg"
+        "mp3": "music/Tara - The Buddhist Monks.ogg"
     },
     {
-        "title": "hear our prayer",
-        "artist": "纯音乐",
+        "title": "Vajrasattra",
+        "artist": "The Buddhist Monks",
         "cover": "img/bg.jpg",
-        "mp3": "music/hear our prayer - 纯音乐.ogg"
+        "mp3": "music/Vajrasattra - The Buddhist Monks.ogg"
     },
     {
         "title": "Jade Moon",
