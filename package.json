@@ -1,11 +1,11 @@
 {
   "main": "http://mba811.github.io/Best-Sound/diantai.html",
-  "name": "收藏音乐",
+  "name": "Music·洛桑扎巴",
   "description": "node-webkit package.json",
   "version": "1.0.0",
-  "keywords": [ "灵魂", "声音" , "音乐"],
+  "keywords": [ "灵魂", "平静" , "感动"],
   "window": {
-    "title": "收藏音乐",
+    "title": "Music·洛桑扎巴",
     "toolbar": false,
     "resizable": false,
     "width": 580,
