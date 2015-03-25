@@ -46,40 +46,40 @@
         "artist": "The Buddhist Monks"
     },
     {
-        "title": "1945完整演奏版",
-        "artist": "海角七号"
+        "title": "Amitayus",
+        "artist": "The Buddhist Monks"
     },
     {
-        "title": "Amarantine",
-        "artist": "enya"
+        "title": "Buddha Spirit",
+        "artist": "The Buddhist Monks"
     },
     {
-        "title": "APHRODITE",
-        "artist": "S.E.N.S"
+        "title": "Chenrezig",
+        "artist": "The Buddhist Monks"
     },
     {
-        "title": "Ave Maria",
-        "artist": "Libera"
+        "title": "Heart of Wisdom",
+        "artist": "The Buddhist Monks"
     },
     {
-        "title": "Brave Soul",
-        "artist": "S.E.N.S"
+        "title": "Manjushri",
+        "artist": "The Buddhist Monks"
     },
     {
-        "title": "Castle Gwyn",
-        "artist": "Arlene Faith"
+        "title": "Medicine Buddha",
+        "artist": "The Buddhist Monks"
     },
     {
-        "title": "Dave kozI believe",
-        "artist": "Saxophone"
+        "title": "Padmasambhara",
+        "artist": "The Buddhist Monks"
     },
     {
-        "title": "D大调卡农",
-        "artist": "帕赫贝尔"
+        "title": "Tara",
+        "artist": "The Buddhist Monks"
     },
     {
-        "title": "hear our prayer",
-        "artist": "纯音乐"
+        "title": "Vajrasattra",
+        "artist": "The Buddhist Monks"
     },
     {
         "title": "Jade Moon",
